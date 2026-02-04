@@ -122,7 +122,7 @@ function Tasks() {
       <div className="relative overflow-hidden">
         <div className="pointer-events-none absolute inset-0">
           <div className="absolute -top-24 right-[-10%] h-80 w-80 rounded-full bg-linear-to-br from-emerald-400/30 via-cyan-400/30 to-indigo-500/20 blur-3xl" />
-          <div className="absolute -bottom-24 left-[-10%] h-[22rem] w-[22rem] rounded-full bg-linear-to-tr from-fuchsia-500/30 via-rose-500/30 to-amber-400/30 blur-3xl" />
+          <div className="absolute -bottom-24 left-[-10%] h-88 w-88 rounded-full bg-linear-to-tr from-fuchsia-500/30 via-rose-500/30 to-amber-400/30 blur-3xl" />
         </div>
 
         <Navbar />
