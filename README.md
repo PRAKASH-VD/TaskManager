@@ -1,4 +1,4 @@
-# Task Manager (MERN)
+ # Task Manager (MERN)
 
 ## Tech Stack
 - Frontend: React (Vite) + TailwindCSS v4 (`@tailwindcss/vite`)
